@@ -14,8 +14,8 @@ language:
 
 rmd_files:
   - "index.Rmd"
-  - "01_pre_requisitos.Rmd"
-  - "02_como_usar_livro.Rmd"
+  - "01_como_usar_livro.Rmd"
+  - "02_pre_requisitos.Rmd"
   - "03_perguntas_ecologia.Rmd"
   - "04_intro_r.Rmd"
   - "05_tidyverse.Rmd"
